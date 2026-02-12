@@ -1,0 +1,26 @@
+Fase 1 (IDENTIFICACIÓN DE NECESIDADES)
+1.1 Centralizar los pedidos
+1.2 Organizar el flujo de pedidos 
+1.3 Asignar pedidos a domiciliarios 
+1.4 Reducir tiempo de atención 
+1.5 Tener registro e historial 
+
+Fase 2 (SINTESIS DEL USUARIO)
+	      Usuario			          Problema a Resolver					                        Valor aportado al cliente
+2.1 = Propietario 		        Perdida o Confusion de pedidos 				          Control total y reducción de errores
+2.2 = Personal de la cocina 	Desorden operativo 					                    Flujo claro y eficiente
+2.3 = Domiciliarios 		      Entregas duplicadas o sin asignación  			    Claridad en responsabilidades y rutas
+2.4 = Cliente 			          Demoras o mala experiencia en el servicio 		  Atención rápida y confiable
+2.5 = Propietario 		        Falta de información para toma de decisiones 		Análisis, control y mejora de negocio
+
+Fase 3 (DEFINICIÓN DEL PROBLEMA)
+Los restaurantes pequeños pierden pedidos, tiempo y dinero debido a la falta de una herramienta centralizada que organice la recepción, gestión y entrega de pedidos de domicilio.
+
+Fase 4 (DEFINICION DE FUNCIONES DE LA APP)
+4.1 Registro centralizado de pedidos.
+4.2 Visualización del estado del pedido.
+4.3 Asignación de pedidos a domiciliarios.
+4.4 Notificaciones internas de cambios de estado.
+4.5 Historial de pedidos y clientes.
+4.6 Panel de control para el dueño.
+4.7 Registro básico de tiempos de entrega.
