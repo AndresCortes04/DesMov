@@ -1,0 +1,39 @@
+1. Identificar al menos 2 usuarios diferentes (Nombre, edad, características y que lo motivaría a usar la app).
+
+Usuario      Felipe Salguero       20-29      Despistado, poca retentiva, tiene muchos quehaceres, ultimos semestres.    No recuerda sus tareas de la materia.
+Usuario      Valeria Melendez      40-49      Flexible, docente de la facultad, capacidad de enseñanza.                  Hacer recorderis a sus estudiantes de los trabajos por entregar.
+Usuario      Romel Ortiz           30-39      Eficiente, gran experiencia, profesional, solucion de bugs.                Mantener un buen funcionamiento para la comunidad.
+
+2. Identificar los roles de cada uno de esos usuario.
+
+Estudiante
+Profesor
+Soporte
+
+3. Por cada rol identificar que problema particular enfrentaría cada usuario.
+
+Estudiante: Enfrenta la poca memoria que tiene para recordar sus deberes. 
+Profesor: La entrega tardia de trabajos subidos a la plataforma.
+Soporte: Posibles fallas tecnicas en las funcionalidades de la app.
+
+CORRECCION
+
+Estudiante que trabaja
+Estudiante activo
+Estudiante repitente
+Profesor
+
+4. Para cada perfil definir que necesita hacer la app.
+
+Estudiante: Para estos debe proporcionarles un entorno donde puedan visualizar sus tareas asignadas.
+Profesor: Debe permitir la asignacion de tareas, junto con la modificacion de la misma.
+Soporte: Tendria acceso a todo el back de la app, excluyendo los datos sensibles del usuario.
+
+5. Defina mínimo 5 requisitos funcionales identificando la prioridad de cada uno de ellos.
+
+5.1 Registro de usuario.
+5.2 Consultar tareas asignadas.
+5.3 Agregar nuevas tareas.
+5.4 Cambiar estado de la tarea (Entregada, No entregada, Calificada, etc).
+5.5 Notificaciones cada cierto tiempo a decision del usuario.
+
