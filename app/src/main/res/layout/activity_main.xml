@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16.dp"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ejercicios"
+        android:textSize="24sp"
+        android:layout_marginBottom="24dp"/>
+
+    <Button
+        android:id="@+id/btnSuma"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. Sumar dos números"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/btnTienda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2. Tienda "
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/btnTemperatura"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3. Convertir F a C"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/btnVacuna"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="4. Calcular Dosis Vacuna"/>
+
+</LinearLayout>
