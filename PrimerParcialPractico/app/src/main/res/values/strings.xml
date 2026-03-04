@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Barrio La Esperanza</string>
+    <string name="header_title">Avisos del Barrio</string>
+    <string name="label_noticias">Noticias del Barrio</string>
+    <string name="hint_titulo">Título del aviso</string>
+    <string name="hint_contenido">Escribe aquí el aviso</string>
+    <string name="btn_publicar">PUBLICAR AVISO</string>
+    <string name="section_publicar">Publicar Nuevo Aviso</string>
+    <string name="title_placeholder">Título del Aviso</string>
+    <string name="date_placeholder">Fecha</string>
+    <string name="desc_placeholder">Direccion</string>
+</resources>
